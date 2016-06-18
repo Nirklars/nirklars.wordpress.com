@@ -1,1 +1,1 @@
-Repo for http://nirklars.wordpress.com
+Repo for site http://nirklars.wordpress.com
